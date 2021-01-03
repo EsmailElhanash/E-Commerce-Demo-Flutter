@@ -1,0 +1,22 @@
+{"categories":[
+    {"category" :{
+        "id":2,
+        "name":"Sports & Fittness",
+        "image":"sports.png"
+    }
+    }
+    ,
+    {"category" :{
+        "id":1,
+        "name":"Clothes",
+        "image":"clothes.png"
+    }
+    }
+    ,
+    {"category" :{
+        "id":0,
+        "name":"Mobile Phones",
+        "image":"phone.jpg"
+    }
+    }]
+}

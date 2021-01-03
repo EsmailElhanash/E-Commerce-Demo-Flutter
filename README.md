@@ -1,4 +1,4 @@
-# flutter_ecommerce_app_practice
+# E-Commerce-Demo-Flutter-App
 
 A new Flutter application.
 
